@@ -4,6 +4,9 @@ Desarrollo backend y herramientas de accesibilidad desde Chile. Uso lector de
 pantalla todos los días, así que muchos de mis proyectos nacen de problemas
 que me encuentro yo mismo.
 
+También hago consultoría de accesibilidad web en
+[digitalaccessibility.cl](https://digitalaccessibility.cl).
+
 *Backend developer (NestJS, Python) building accessibility tools. Based in Chile.*
 
 ## Proyectos
